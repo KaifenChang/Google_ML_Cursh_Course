@@ -1,0 +1,11 @@
+## Terminalogy
+- instance: 
+- Label:
+- Feature:
+- Feature Column:
+- Example:
+- Model:
+- Metric:
+- Objective:
+- Pipeline:
+- Click=through Rate:
